@@ -1,0 +1,14 @@
+#組み合わせないでほしいペア
+
+A-D
+B-C
+A-B
+C-D
+E-F
+G-H
+A-H
+B-G
+C-E
+D-F
+E-H
+F-G 
